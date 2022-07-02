@@ -20,35 +20,35 @@ Selanjutnya Buat folder baru dengan nama lab9_php_modular pada docroot webserver
 
 1. Membuat file baru dengan nama <b>"Header.php"</b>
 
-![img](gambarpratikum9/png.1.PNG)
+![img](gambar/png.1.PNG)
 
 Selanjutnya buka chrome / browser ketik "localhost/lab9_php_modular/header.php".Berikut hasil outputnya :
 
-![img](gambarpratikum9/png.2.PNG)
+![img](gambar/png.2.PNG)
 
 2. Membuat file baru dengan <b>"nama footer.php"</b>
 
-![img](gambarpratikum9/png.3.PNG)
+![img](gambar/png.3.PNG)
 
 Lalu selanjut nya buka chrome / browser ketikan "localhost/lab9_php_modular/footer.php". Lihat hasil nya :
 
-![img](gambarpratikum9/png.4.PNG)
+![img](gambar/png.4.PNG)
 
 3. Buat file baru dengan "nama home.php"
 
-![img](gambarpratikum9/png.5.PNG)
+![img](gambar/png.5.PNG)
 
 Selanjutnya lihat hasil outputnya dengan mengklik "localhost/lab9_php_modular/home.php". lalu refresh chrome / browser nya. Dan lihat hasil nya :
 
-![img](gambarpratikum9/png.6.PNG)
+![img](gambar/png.6.PNG)
 
 4. Buat file baru dengan nama "about.php"
 
-![img](gambarpratikum9/png.7.PNG)
+![img](gambar/png.7.PNG)
 
 Lalu lihat hasil nya di chrome / browser dengan mengklik "localhost/lab9_php_modular/about.php". dan silah kan di refresh maka tampilan nya seperti berikut :
 
-![img](gambarpratikum9/png.8.PNG)
+![img](gambar/png.8.PNG)
 
 
 
