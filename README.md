@@ -54,6 +54,8 @@ Lalu lihat hasil nya di chrome / browser dengan mengklik "localhost/lab9_php_mod
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Pratikum 10 pemrograman web 
 
 
@@ -88,7 +90,7 @@ Selanjut nya buat source kode seperti berikut :
 
 ![img](screenshot/png.3.PNG)
 
-Lalu lihat hasil nya :
+Lihat hasil nya di bawah ini.Seperti yang kalian lihat hasil nya "kosong".
 
 ![img](screenshot/png.4.PNG)
 
@@ -97,11 +99,17 @@ Lalu lihat hasil nya :
 
 terus buat source kode script nya seperti berikut :
 
-![img](SCREENSHOT/png.5.PNG)
+![img](screenshot/png.5.PNG)
 
 Buka hasil outputnya di chrome / browser dengan cara di refres.
 
 maka hasil nya akan seperti berikut : (disini saya tidak menggunakan ccs untuk merapikan tabelnya)
+
+![img](screenshot/png.6.PNG)
+
+
+
+# TERIMAH KASIH
 
 
 
