@@ -52,3 +52,57 @@ Lalu lihat hasil nya di chrome / browser dengan mengklik "localhost/lab9_php_mod
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Pratikum 10 pemrograman web 
+
+
+Nama    : Aka erlanda
+
+Nim     : 312010207
+
+Kelas   : TI.20.B.1
+
+# Lab10web
+
+<b>Persiapan</b>
+
+Persiapkan text editor seperti VSCode karna saya menggunakan vscode.
+
+lalu Buat folder baru dengan nama lab10_php_oop pada bagian docroot webserver (htdocs)
+
+<b>selanjutnya Buat file baru dengan nama "mobil.php"</b>
+
+Lalu buat source kode seperti berikut :
+
+![img](screenshot/png.1.PNG)
+
+Selanjutnya lihat hasil outputnya :
+
+![img](screenshot/png.2.PNG)
+
+
+<b>Pada Program ini membuat file baru dengan nama "form.php"</b>
+
+Selanjut nya buat source kode seperti berikut :
+
+![img](screenshot/png.3.PNG)
+
+Lalu lihat hasil nya :
+
+![img](screenshot/png.4.PNG)
+
+
+<b>Tahap terakhir membuat file baru dengan nama "form_input.php"</b>
+
+terus buat source kode script nya seperti berikut :
+
+![img](SCREENSHOT/png.5.PNG)
+
+Buka hasil outputnya di chrome / browser dengan cara di refres.
+
+maka hasil nya akan seperti berikut : (disini saya tidak menggunakan ccs untuk merapikan tabelnya)
+
+
+
+
